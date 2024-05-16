@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BusinessService/1.0.0": {
+        "dependencies": {
+          "DataService": "1.0.0"
+        },
+        "runtime": {
+          "BusinessService.dll": {}
+        }
+      },
+      "DataService/1.0.0": {
+        "runtime": {
+          "DataService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

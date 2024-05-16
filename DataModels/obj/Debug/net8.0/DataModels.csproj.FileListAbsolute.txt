@@ -1,0 +1,11 @@
+/Users/gourav/Net/DataModels/bin/Debug/net8.0/DataModels.deps.json
+/Users/gourav/Net/DataModels/bin/Debug/net8.0/DataModels.dll
+/Users/gourav/Net/DataModels/bin/Debug/net8.0/DataModels.pdb
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.AssemblyInfoInputs.cache
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.AssemblyInfo.cs
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.csproj.CoreCompileInputs.cache
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.dll
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/refint/DataModels.dll
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/DataModels.pdb
+/Users/gourav/Net/DataModels/obj/Debug/net8.0/ref/DataModels.dll

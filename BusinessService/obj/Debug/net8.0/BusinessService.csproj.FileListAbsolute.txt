@@ -1,0 +1,15 @@
+/Users/gourav/Net/BusinessService/bin/Debug/net8.0/BusinessService.deps.json
+/Users/gourav/Net/BusinessService/bin/Debug/net8.0/BusinessService.dll
+/Users/gourav/Net/BusinessService/bin/Debug/net8.0/BusinessService.pdb
+/Users/gourav/Net/BusinessService/bin/Debug/net8.0/DataService.dll
+/Users/gourav/Net/BusinessService/bin/Debug/net8.0/DataService.pdb
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.csproj.AssemblyReference.cache
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.AssemblyInfoInputs.cache
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.AssemblyInfo.cs
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.csproj.CoreCompileInputs.cache
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/Business.EF4CDBBF.Up2Date
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.dll
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/refint/BusinessService.dll
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/BusinessService.pdb
+/Users/gourav/Net/BusinessService/obj/Debug/net8.0/ref/BusinessService.dll

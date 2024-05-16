@@ -1,0 +1,11 @@
+/Users/gourav/Net/DataService/bin/Debug/net8.0/DataService.deps.json
+/Users/gourav/Net/DataService/bin/Debug/net8.0/DataService.dll
+/Users/gourav/Net/DataService/bin/Debug/net8.0/DataService.pdb
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.AssemblyInfoInputs.cache
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.AssemblyInfo.cs
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.csproj.CoreCompileInputs.cache
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.dll
+/Users/gourav/Net/DataService/obj/Debug/net8.0/refint/DataService.dll
+/Users/gourav/Net/DataService/obj/Debug/net8.0/DataService.pdb
+/Users/gourav/Net/DataService/obj/Debug/net8.0/ref/DataService.dll
